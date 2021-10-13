@@ -1,4 +1,4 @@
-def swap_last_item(myList)
+def swap_last_item(myList):
 	"""
 	Swaps the last element in a list with the first element.
 	
